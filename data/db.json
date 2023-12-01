@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": "5602",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "name": "Printer2",
+      "price": "1601",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "Phone",
+      "price": 3600,
+      "checked": true
+    },
+    {
+      "name": "test",
+      "price": "02560",
+      "checked": true,
+      "id": 4
+    },
+    {
+      "name": "ee",
+      "price": 0,
+      "checked": true,
+      "id": 5
+    },
+    {
+      "name": "ddcc",
+      "price": 0,
+      "checked": false,
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIz",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsIm5hbWUiOiJKb2huIERvZSIsImlhdCI6MTUxNjIzOTAyMiwibmJmIjoxNTE2MjM5MDIyLCJleHAiOjE1MTYyMzkwMjIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODg4OC9hdXRoIiwicm9sZXMiOlsiVVNFUiJdfQ.GsaesNBdR2SybLszcr0eXpFJdjM64LClH_GWyHdxDtI"
+    },
+    {
+      "id": "user2",
+      "password": "MTIz",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsIm5hbWUiOiJKb2huIERvZSIsImlhdCI6MTUxNjIzOTAyMiwibmJmIjoxNTE2MjM5MDIyLCJleHAiOjE1MTYyMzkwMjIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODg4OC9hdXRoIiwicm9sZXMiOlsiVVNFUiJdfQ.qKF_cn5hjByII3mVzC7KMU_hL5P0F6BebCeMeBPb7jQ"
+    },
+    {
+      "id": "admin",
+      "password": "MTIz",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsIm5hbWUiOiJKb2huIERvZSIsImlhdCI6MTUxNjIzOTAyMiwibmJmIjoxNTE2MjM5MDIyLCJleHAiOjE1MTYyMzkwMjIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODg4OC9hdXRoIiwicm9sZXMiOlsiVVNFUiIsIkFETUlOIl19.i-hgODFlLG_Rnmjw5UiYII5CCwLjN8lV5FuVzGox1GM"
+    }
+  ]
+}
